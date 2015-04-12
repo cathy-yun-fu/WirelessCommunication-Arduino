@@ -4,4 +4,4 @@
 
 * Used RF24 library. Nrf24L01 wireless transceivers.
 
-* Arduino facilitated communication between car and NIOS II processor, which received input from mouse to control car
+* Arduino facilitated communication between car and NIOS II processor, which received input from mouse to control car (not included)
